@@ -1,0 +1,10 @@
+E:\C# projects\DataIntoExcelfile\DataIntoExcelfile\bin\Debug\DataIntoExcelfile.exe.config
+E:\C# projects\DataIntoExcelfile\DataIntoExcelfile\bin\Debug\DataIntoExcelfile.exe
+E:\C# projects\DataIntoExcelfile\DataIntoExcelfile\bin\Debug\DataIntoExcelfile.pdb
+E:\C# projects\DataIntoExcelfile\DataIntoExcelfile\bin\Debug\Bytescout.Spreadsheet.dll
+E:\C# projects\DataIntoExcelfile\DataIntoExcelfile\bin\Debug\Bytescout.Spreadsheet.xml
+E:\C# projects\DataIntoExcelfile\DataIntoExcelfile\obj\Debug\DataIntoExcelfile.csproj.AssemblyReference.cache
+E:\C# projects\DataIntoExcelfile\DataIntoExcelfile\obj\Debug\DataIntoExcelfile.csproj.CoreCompileInputs.cache
+E:\C# projects\DataIntoExcelfile\DataIntoExcelfile\obj\Debug\DataInto.AEA3286C.Up2Date
+E:\C# projects\DataIntoExcelfile\DataIntoExcelfile\obj\Debug\DataIntoExcelfile.exe
+E:\C# projects\DataIntoExcelfile\DataIntoExcelfile\obj\Debug\DataIntoExcelfile.pdb
